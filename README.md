@@ -50,7 +50,7 @@ To install this application, run the following commands:
 
 ### Clone the project repository:
 ```bash
-git clone https://github.com/Vivekgupta96/eCommerce-Application.git
+git clone https://github.com/surada841/enterprise.git
 ```
 ### Navigate to the project directory:
 ```
